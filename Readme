@@ -1,9 +1,12 @@
 ##  Reactify Essentials
 
-[Image of Test Passing](./tDD.png)
+
+![Console Log Photo](image.png)
 
 This program is a React-based application built with TypeScript, focusing on creating reusable components and maintaining high-quality standards through robust testing. It features a Calculator component that supports arithmetic operations with dynamic interactions, a potential Advertisement component for displaying promotional content, and a modern testing setup using Vitest and React Testing Library. The testing environment is enhanced with Happy DOM for DOM simulation, ensuring accurate and isolated tests. The project leverages TypeScript for type safety and maintainability, emphasizing user-focused functionality and a scalable, modular design.
 
+
+how to update Snapshot: npm test -- -u
 
 Program Overview
 This React-based application is modular and organized, focusing on implementing reusable components and rigorous testing to ensure functionality. The primary focus seems to be on building and validating UI elements for specific use cases:
